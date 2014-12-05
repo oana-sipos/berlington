@@ -3,7 +3,7 @@ berlington
 
 A combination of learning knockout.js, markdown, and having fun. Sort of codepen, but for markdown. 
 
-# Roadmap
+## Roadmap
 * have a markdown editor + css - no persistence or link sharing
 * starter template for css + modal to show shortcuts for markdown
 
